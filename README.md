@@ -1,2 +1,2 @@
-# HangmanCLI-JavaEdition
-This is my third hangman game, in java flavor : )
+# CLIGames
+Fun for the whole family : )
